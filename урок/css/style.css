@@ -1,0 +1,8 @@
+.container{
+    margin: 0 auto;
+}
+.carousel carousel-slider img{
+    margin-top: 40px;
+    height: 10%;
+    max-width: 30%;
+}
